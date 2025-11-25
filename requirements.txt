@@ -1,0 +1,20 @@
+# Core packages
+numpy>=1.25
+pandas>=2.1
+
+# Deep Learning
+tensorflow>=2.15
+
+# Jupyter notebook support
+jupyter>=1.0
+
+# Image handling
+Pillow>=10.1
+opencv-python>=4.8
+
+# Plotting
+matplotlib>=3.8
+seaborn>=0.12
+
+# Optional for progress bars
+tqdm>=4.66
