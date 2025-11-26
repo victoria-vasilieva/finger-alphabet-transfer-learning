@@ -129,7 +129,7 @@ C/
 
 2. **Add any hand images** (or even placeholder images) into each folder.
 
-3. **Update the notebook path** to point to your local `dataset/` folder.
+3. **Update the notebook path** to point to your local `data/` folder.
 
 4. **Run the notebook** — all steps (augmentation, training, evaluation) will work on this dummy dataset.
 
